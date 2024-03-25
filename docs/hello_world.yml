@@ -1,0 +1,11 @@
+tags:
+  - name: Selamat datang di API Docs Kelompok 1 BINAR DSC Wave 16
+get:
+  description: Berikut adalah API Platinum Challenge kelompok kami
+responses:
+    '200':
+      description: Successful response
+    '400':
+      description: Bad Request
+    '500':
+      description: Internal Service Error
